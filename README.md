@@ -13,7 +13,6 @@ The program will create a deck of cards, shuffle it and deal a card.
 
 ####  [Project 2: Building Numbers- Who workings in which building?](https://github.com/Sally-Ng/Python-Building_Numbers/blob/master/README.md)
 The program will keeps track of which workers work in what buildings. The information will be stored in a dictionary while the program is running and kept in a file when the program is not running. 
-
 </br>
 <p align="left">
   <img src="buildings.JPG" width="450"/>
