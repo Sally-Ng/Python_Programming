@@ -3,8 +3,6 @@ The course covers programming fundamentals using the Python language to write pr
 
 - [x] [Project 1: Cards- Shuffle and deal a card](https://github.com/Sally-Ng/Python-Cards)
 - [x] [Project 2: Building Numbers- Who workings in which building?](https://github.com/Sally-Ng/Python-Building_Numbers/blob/master/README.md)
-</br>
-</br>
 
 ####  [Project 1: Cards- Shuffle and deal a card](https://github.com/Sally-Ng/Python-Cards)
 The program will create a deck of cards, shuffle it and deal a card. 
