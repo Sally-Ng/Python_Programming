@@ -23,5 +23,5 @@ The program will keeps track of which workers work in what buildings. The inform
 The program will allow users to modifty names on a file through a website.
 </br>
 <p align="left">
-  <img src="website.JPG" width="450"/>
+  <img src="website.JPG" width="200"/>
 </p>
